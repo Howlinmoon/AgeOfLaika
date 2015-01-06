@@ -10,4 +10,12 @@
 
 @interface ViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UILabel *labelInDogYears;
+
+
+@property (weak, nonatomic) IBOutlet UITextField *enterHumanYears;
+
+- (IBAction)convertButtonPressed:(UIButton *)sender;
+
+
 @end

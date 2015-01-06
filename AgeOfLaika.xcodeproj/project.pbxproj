@@ -21,6 +21,7 @@
 		96C4392A1A57094400CFF41E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 96C4390C1A57094400CFF41E /* UIKit.framework */; };
 		96C439321A57094400CFF41E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 96C439301A57094400CFF41E /* InfoPlist.strings */; };
 		96C439341A57094400CFF41E /* AgeOfLaikaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 96C439331A57094400CFF41E /* AgeOfLaikaTests.m */; };
+		96C4393E1A5709ED00CFF41E /* LaikaSpaceDog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96C4393D1A5709ED00CFF41E /* LaikaSpaceDog.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		96C4392F1A57094400CFF41E /* AgeOfLaikaTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AgeOfLaikaTests-Info.plist"; sourceTree = "<group>"; };
 		96C439311A57094400CFF41E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		96C439331A57094400CFF41E /* AgeOfLaikaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AgeOfLaikaTests.m; sourceTree = "<group>"; };
+		96C4393D1A5709ED00CFF41E /* LaikaSpaceDog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LaikaSpaceDog.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		96C4390F1A57094400CFF41E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				96C4393D1A5709ED00CFF41E /* LaikaSpaceDog.jpg */,
 				96C439101A57094400CFF41E /* AgeOfLaika-Info.plist */,
 				96C439111A57094400CFF41E /* InfoPlist.strings */,
 				96C439141A57094400CFF41E /* main.m */,
@@ -228,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				96C4393E1A5709ED00CFF41E /* LaikaSpaceDog.jpg in Resources */,
 				96C439211A57094400CFF41E /* Images.xcassets in Resources */,
 				96C439131A57094400CFF41E /* InfoPlist.strings in Resources */,
 				96C4391C1A57094400CFF41E /* Main.storyboard in Resources */,
